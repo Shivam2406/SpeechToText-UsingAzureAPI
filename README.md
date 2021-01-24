@@ -1,1 +1,0 @@
-# speechToText-azure
